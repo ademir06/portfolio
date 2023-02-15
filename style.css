@@ -40,7 +40,7 @@
 }
 
 .name {
-    font-size: 20vw;
+    font-size: 16vw;
     color: #333;
     cursor: default;
     text-align: center;
@@ -60,7 +60,7 @@
 }
 
 .jobTitle {
-    font-size: 10vw;
+    font-size: 8vw;
     color: #333;
     line-height: 100vh;
     cursor: default;
